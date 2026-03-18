@@ -12,13 +12,11 @@ Grupo: DIU3.RESCUE
 
 Curso: 2025/26 
 
-Nombre del Proyecto: 
+Nombre del Proyecto: Análisis de Experiencia de Goiko
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
 
-Descripción: 
+Descripción: Análisis de usabilidad y experincia de usuario de la plataforma web de Goiko Grill, enfocada a la reserva y pedido de comida gourmet.
 
->>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
 
@@ -26,9 +24,8 @@ Logotipo:
 
 Miembros DIU3.RESCUE:
  * :bust_in_silhouette:  Jorge García Rubio     :octocat: https://github.com/jrgeegr     
- * :bust_in_silhouette:  Raúl Gutiérrez Manrique     :octocat:
+ * :bust_in_silhouette:  Raúl Gutiérrez Manrique     :octocat: https://github.com/RaulGM03
 
->>> Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
 
@@ -51,33 +48,45 @@ Miembros DIU3.RESCUE:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
+Nuestro plan de investigación se centra en evaluar la eficacia de la web de Goiko para usuarios con necesidades contrapuestas. Hemos seleccionado dos perfiles críticos: un usuario técnico/exigente (Alejandro) que busca precisión en los datos de los alimentos, y una usuaria con limitaciones de tiempo y dieta (Elena) que requiere rapidez y filtros claros (vegano). El objetivo es identificar fricciones en el proceso de pedido y reserva bajo condiciones de uso real.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos analizado la competencia directa de Goiko, comparándola con **Vicio** y **Five Guys**.
+* **Vicio:** Destaca por una estética rompedora y un flujo de pedido extremadamente optimizado para móvil.
+* **Five Guys:** Apuesta por el minimalismo y la personalización total, aunque su interfaz es algo austera.
+**Selección:** Se ha elegido Goiko para el estudio por ser el referente en España que intenta equilibrar una imagen de marca muy potente con un sistema complejo de reservas y fidelización (Goikoin).  
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Hemos creado dos personas con objetivos opuestos para cubrir el mayor espectro de usuarios:
+* **Alejandro Lloréns:** Técnico de alimentos, detallista y amante de la calidad. Representa al usuario que lee la "letra pequeña" y valora la transparencia.
+* **Elena Martínez:** Médica de urgencias y vegana. Representa al usuario que navega con prisa, mala conexión y necesita encontrar opciones dietéticas específicas sin fricciones.
+*(Las fichas se encuentran en P1/Persona1.png y P1/Persona2.png)*
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Se han diseñado dos mapas de experiencia (User Journey) que reflejan situaciones cotidianas:
+1. **Alejandro:** Intenta personalizar un pedidio a domicilio tras un examen. Su experiencia decae ante la falta de información técnica clara en el checkout.
+2. **Elena:** Intenta reservar mesa desde el hospital con mala cobertura. Su punto crítico es el peso de la web y la complejidad del formulario de reserva.
+Estas experiencias son habituales y demuestran que la carga visual de la web a veces penaliza la funcionalidad.
 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
+
+- **Enlace al documento:** []()
+- **URL y Valoración numérica obtenida:** www.goiko.com /
+- **Comentario sobre la revisión:** La web destaca por un diseño visual impecable y una fotografía de producto excelente (puntos fuertes). Sin embargo, pierde puntos en eficiencia debido a tiempos de carga elevados en móvil y a un proceso de reserva que requiere demasiados clics y pasos de confrimación (puntos débiles).
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
