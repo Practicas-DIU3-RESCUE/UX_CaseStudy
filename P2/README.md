@@ -1,9 +1,8 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
 * Mapa de empatía
-* Point of View 
+![Empathy Map](empathyMap.png)
 
 
 ### PROPUESTA DE VALOR
