@@ -89,13 +89,8 @@ Estas experiencias son habituales y demuestran que la carga visual de la web a v
 ----
 
 - **Enlace al documento:** [Usability Review](/P1/UsabilityReview.pdf)
-- **URL y Valoración numérica obtenida:** www.goiko.com /
+- **URL y Valoración numérica obtenida:** www.goiko.com / 70 - Good
 - **Comentario sobre la revisión:** La web destaca por un diseño visual impecable y una fotografía de producto excelente (puntos fuertes). Sin embargo, pierde puntos en eficiencia debido a tiempos de carga elevados en móvil y a un proceso de reserva que requiere demasiados clics y pasos de confrimación (puntos débiles).
-
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 
 <br>
 
