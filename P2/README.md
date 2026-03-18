@@ -12,7 +12,8 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix <br><br>
+* **User Task Matrix**
+
 | Tareas / Grupos de Usuario | Clientes (Alex/Elena) | Staff / Cocina | Administradores (Goiko) |
 | :--- | :---: | :---: | :---: |
 | **Iniciar sesión / Registrarse** | H | H | H |
@@ -25,8 +26,8 @@
 | **Mirar perfiles de otros creadores** | M | - | L |
 | **Acceder a métricas de ventas** | - | - | H |
 | **Resolver dudas con soporte** | M | M | H |
-<br>
-* User/Task flow
+
+* **User/Task flow**
 
 
 ### ARQUITECTURA DE INFORMACIÓN
