@@ -49,3 +49,28 @@ Alex Lloréns es un joven técnico de alimentos, apasionado por la calidad del p
 
 ![Persona #1](Persona1.png)
 ![Persona #2](Persona2.png)
+
+## 4. User Journey Map
+
+Se han desarrollado dos mapas de experiencia de usuario para analizar los momentos críticos de interacción con la web de Goiko.
+
+* **Experiencia de Alejandro:** Se enfoca en un pedido a domicilio con alta personalización. El mapa refleja la frustración del usuario técnico ante la falta de transparencia en el desglose de ingredientes y la pesadez de carga del configurador móvil.
+
+![User Journey Map 1](UserJourney1.png)
+
+* **Experiencia de Elena:** Se centra en la reserva de mesa tras una guardia médica. El mapa destaca el "punto de dolor" que supone la mala respuesta de la interfaz con conexiones móviles inestables y la ambigüedad en la confirmación de opciones veganas.
+
+![User Journey Map 2](UserJourney2.png)
+
+
+## 5. Usability Review
+
+Para realizar la inspección de usabilidad, hemos utilizado el checklist basado en los principios de "UX for the Masses". Se ha evaluado el sitio web oficial de Goiko (www.goiko.com).
+
+* **Enlace al documento:** [Revisión de Usabilidad (PDF)](UsabilityReview.pdf)
+* **Valoración Final:** **70 - Good**
+* **Resumen ejecutivo:** La plataforma ofrece una experiencia visual sobresaliente y un branding muy coherente, pero sacrifica rendimiento técnico. Los principales problemas radican en el tiempo de respuesta (especialmente en móvil), la falta de un buscador interno eficiente y la complejidad de los formularios de reserva, que pueden generar incertidumbre en el usuario.
+
+## 6. Valoración final de la práctica
+
+
