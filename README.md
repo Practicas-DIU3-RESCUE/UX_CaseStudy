@@ -20,6 +20,8 @@ Descripción: Análisis de usabilidad y experincia de usuario de la plataforma w
 
 Logotipo: 
 
+![Logo Goiko](LogoGoiko.png)
+
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros DIU3.RESCUE:
@@ -57,7 +59,7 @@ Nuestro plan de investigación se centra en evaluar la eficacia de la web de Goi
 Hemos analizado la competencia directa de Goiko, comparándola con **Vicio** y **Five Guys**.
 * **Vicio:** Destaca por una estética rompedora y un flujo de pedido extremadamente optimizado para móvil.
 * **Five Guys:** Apuesta por el minimalismo y la personalización total, aunque su interfaz es algo austera.
-**Selección:** Se ha elegido Goiko para el estudio por ser el referente en España que intenta equilibrar una imagen de marca muy potente con un sistema complejo de reservas y fidelización (Goikoin).  
+* **Selección:** Se ha elegido Goiko para el estudio por ser el referente en España que intenta equilibrar una imagen de marca muy potente con un sistema complejo de reservas y fidelización (Goikoin).  
 
 
 ### 1.c Personas
