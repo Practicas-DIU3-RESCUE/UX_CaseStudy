@@ -44,7 +44,7 @@
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
-![Sitemap](sitemap.png) 
+![Sitemap](SiteMap.png) 
 * Labelling 
 
 | Label                | Scope Note                                                   
