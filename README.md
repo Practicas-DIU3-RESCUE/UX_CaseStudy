@@ -15,7 +15,7 @@ Curso: 2025/26
 Nombre del Proyecto: Goikomes
 
 
-Descripción: Es un proyecto donde vamos a tomar la iniciativa de que, cada mes, los clientes pueden rellenar un formulario donde crean su propia hamburguesa, y, de todas las propuestas se elige una cada mes. El ganador se llevaría un porcentaje de comisión por cada venta de esa hamburguesa. 
+Descripción: Es un proyecto donde Vamos a tomar la iniciativa de que, cada mes, los clientes puedan votar una hamburguesa de entre 3 propuestas nuevas (proporcionadas por Goiko). La ganadora se quedará en la carta durante el mes siguiente. 
 
 Logotipo: 
 
