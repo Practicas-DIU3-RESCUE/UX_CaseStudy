@@ -18,12 +18,12 @@
 | :--- | :---: | :---: | :---: |
 | **Iniciar sesión / Registrarse** | H | M | H |
 | **Pedir / Personalizar burger** | H | L | - |
-| **Participar en concurso "myGoiko"** | H | M | L |
+| **Participar en la votacion "GoikoMes** | H | M | L |
 | **Reservar mesa en local** | H | H | - |
 | **Consultar carta y alérgenos** | H | L | M |
-| **Votar por la creación del mes** | H | L | L |
-| **Validar propuestas ganadoras** | - | - | H |
-| **Mirar perfiles de otros creadores** | M | L | L |
+| **Pedir a domicilio** | H | L | L |
+| **Pedir la burger del mes** | - | - | H |
+| **Mirar las GoikoMes históricas** | M | L | L |
 
 * **User/Task flow: se muestra el flujo de tres tareas que consideramos las más importantes:** registro, hacer un pedido y realizar tu creación de burger del mes
 
