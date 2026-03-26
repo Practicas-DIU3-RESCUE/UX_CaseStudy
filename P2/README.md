@@ -29,11 +29,9 @@
     * Realizar pedido y votar:
 ![votacion](votacion.png)
     * Revisar las burgers pasadas (Salón de la Fama) y pedir una similar:<br><br>
-![Historicas](mensuales_historicas.png)
-    * Acceder al perfil de creaciones del creador de X burger
-![Creador](perfilCreador.png)
-
----
+![Historicas](mensuales_historicas.png)<br><br>
+    * Acceder al perfil de creaciones del creador de X burger<br><br>
+![Creador](perfilCreador.png)<br><br>
 
 
 
