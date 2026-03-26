@@ -12,7 +12,7 @@ Grupo: DIU3.RESCUE
 
 Curso: 2025/26 
 
-Nombre del Proyecto: myGoiko
+Nombre del Proyecto: Goikomes
 
 
 Descripción: Es un proyecto donde vamos a tomar la iniciativa de que, cada mes, los clientes pueden rellenar un formulario donde crean su propia hamburguesa, y, de todas las propuestas se elige una cada mes. El ganador se llevaría un porcentaje de comisión por cada venta de esa hamburguesa. 
