@@ -25,17 +25,13 @@
 | **Pedir la burger del mes** | M | H | M |
 | **Mirar las GoikoMes históricas** | M | L | L |
 
-* **User/Task flow: se muestra el flujo de tres tareas que consideramos las más importantes:** hacer pedido y votar, revisar las burgers pasadas (Salón de la Fama) y pedir una similar
-
+* **User/Task flow: se muestra el flujo de tres tareas que consideramos las más importantes.** revisar las burgers pasadas (Salón de la Fama) y pedir una similar
+    * Realizar pedido y votar:
 ![votacion](votacion.png)
-
----
-
+    * Revisar las burgers pasadas (Salón de la Fama) y pedir una similar:<br><br>
 ![Historicas](mensuales_historicas.png)
-
----
-
-![Creación Burger](creacionBurger.png)
+    * Acceder al perfil de creaciones del creador de X burger
+![Creador](perfilCreador.png)
 
 ---
 
