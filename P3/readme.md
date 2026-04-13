@@ -3,6 +3,7 @@
 - Moodboard (diseño visual + logotipo)
  ![Moodboard](Moodboard.png) 
 - Landing Page
+  ![Landing Page](landingPage.png)
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
 
