@@ -68,21 +68,27 @@ Para el diseño del prototipo se ha seguido un proceso Mobile-First adaptado a e
 
 **Recursos del Prototipo:**
 * Página de Inicio:
+  
 ![GoikoMes](GoikoMes.png)
 
 * Votaciones del Mes:
+  
 ![Votaciones del Mes](VotacionesdelMes.png)
 
 * Salón de la Fama:
+  
 ![Salón de la Fama](SalonDeLaFama.png)
 
 * Creadores:
+  
 ![Creadores](Creadores.png)
 
 * Perfil de Creador:
+  
 ![Perfil de Creador](PerfilDeCreador.png)
 
 * Arquitectura de Conexiones:
+  
 ![Conexiones](ConexionesEntrePaginas.png)
 
 * Enlace al prototivo interactivo en Figma:
