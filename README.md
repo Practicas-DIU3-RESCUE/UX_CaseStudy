@@ -96,56 +96,103 @@ Estas experiencias son habituales y demuestran que la carga visual de la web a v
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
+![Método UX](/P2/empathyMap.png) 
 ----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
   
     
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Vamos a tomar la iniciativa de que, cada mes, los clientes puedan votar una hamburguesa de entre 3 propuestas nuevas (proporcionadas por Goiko). La ganadora se quedará en la carta durante el mes siguiente. 
+También habrá una sección de burgers ganadoras de la historia.
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
+![GoikoMes](/P2/canvas.png)
 ----
-
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
------
+* **User Task Matrix. H: High. M: Medium. L: Low**
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+| Tareas / Grupos de Usuario | Jóvenes | Adultos | Trabajadores de Goiko |
+| :--- | :---: | :---: | :---: |
+| **Iniciar sesión / Registrarse** | H | M | H |
+| **Personalizar burger** | M | L | - |
+| **Participar en la votacion "GoikoMes** | H | M | L |
+| **Reservar mesa en local** | H | H | - |
+| **Consultar carta y alérgenos** | H | M | M |
+| **Pedir a domicilio** | H | M | L |
+| **Pedir la burger del mes** | M | H | M |
+| **Mirar las GoikoMes históricas** | M | L | L |
+
+* **User/Task flow: se muestra el flujo de tres tareas que consideramos las más importantes.** revisar las burgers pasadas (Salón de la Fama) y pedir una similar
+    * Realizar pedido y votar:
+![votacion](/P2/votacion.png)
+    * Revisar las burgers pasadas (Salón de la Fama) y pedir una similar:<br><br>
+![Historicas](/P2/mensuales_historicas.png)<br><br>
+    * Acceder al perfil de creaciones del creador de X burger<br><br>
+![Creador](/P2/perfilCreador.png)<br><br>
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
-----
+* Sitemap
+![Sitemap](/P2/SiteMap.png) 
+* Labelling 
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
-
+| Label                   | Scope Note                                                   
+|-------------------------|--------------------------------------------------------|
+| Página de Inicio        | Página principal del sitio web                         |
+| Iniciar Sesión          | Sección para iniciar sesión / Registrarse              |
+| Realizar Pedido         | Página donde puedes realizar tu pedido                 |
+| Vota la Burger del Mes  | Página sólo accesible después de pagar un pedido, vota la burger del mes |
+| Reservar Mesa           | Página para reservar mesa en un local                  |
+| Carta                   | Carta de la hamburguesería                             |
+| Perfil Usuario          | Datos y pedidos del usuario                            |
+| GoikoMes                | Página principal de la nueva propuesta                 |
+| Pide y Vota             | Igual que Realizar Pedido                              |
+| Votaciones del Mes      | Información sobre la votación de las actuales propuestas |
+| Salón de la Fama        | Burgers y creadores pasados                            |
+| Creadores               | Información sobre los creadores de las burgers del mes |
+| Perfil del Creador      | Información sobre X creador de mínimo 1 burger del mes |
+| Aviso Legal             | Página con términos y condiciones...                   |
+| Copyright               | Sección sobre el copyright                             |
+| Política de Cookies     | Cookis utilizadas en el sitio web                      |
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
------
+Para el diseño del prototipo se ha seguido un proceso Mobile-First adaptado a escritorio mediante un Grid Layout de 12 columnas (1440px). Se ha puesto especial énfasis en la jerarquía visual y la consistencia de los elementos (botones, tarjetas y navegación).
+* **Distribución y Rejilla:** Se ha utilizado una rejilla de 12 columnas con un gutter de 20px, permitiendo que el contenido sea **responsive**. Las tarjetas de hamburguesas y creadores se han diseñado para ocupar 4 columnas, permitiendo un escalado fluido.
+* **Componentes y Auto Layout:** Se han implementado componentes para las tarjetas de hamburguesas y para el header, utilizando **Auto Layout** de Figma para garantizar que el espaciado sea constante y que el diseño se adapte automáticamente al contenido de texto.
+* **Interactividad:** El prototipo es funcional y permite navegar por el flujo completo de "GoikoMes".
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+**Recursos del Prototipo:**
+
+
+* Página de Inicio:
+  
+![GoikoMes](/P2/GoikoMes.png)
+
+* Votaciones del Mes:
+  
+![Votaciones del Mes](/P2/VotacionesdelMes.png)
+
+* Salón de la Fama:
+  
+![Salón de la Fama](/P2/SalonDeLaFama.png)
+
+* Creadores:
+  
+![Creadores](/P2/Creadores.png)
+
+* Perfil de Creador:
+  
+![Perfil de Creador](/P2/PerfilDeCreador.png)
+
+* Arquitectura de Conexiones:
+  
+![Conexiones](/P2/ConexionesEntrePaginas.png)
+
+* Enlace al prototivo interactivo en Figma:
+https://www.figma.com/design/A6rDPMsQQNoGCJOEQcfLrb/Sin-t%C3%ADtulo?node-id=0-1&t=Pm9RMPRkGWGsdZhS-1
 
 <br>
 
