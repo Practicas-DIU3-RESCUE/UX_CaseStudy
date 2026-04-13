@@ -8,6 +8,7 @@
   Nuestra landing page ofrece información sobre el proyecto, todo con un diseño claro y visual para que atraer a el publico que no se vayan rapido, sino que se interesen.
   <br>
   ![Landing Page](landingPage.png)
+  <br>
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
 
