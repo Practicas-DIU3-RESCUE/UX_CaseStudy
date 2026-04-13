@@ -3,6 +3,7 @@
 - Moodboard (diseño visual + logotipo)
  ![Moodboard](Moodboard.png) 
 - Landing Page
+  Nuestra landing page ofrece información sobre el proyecto, todo con un diseño claro y visual para que atraer a el publico que no se vayan rapido, sino que se interesen.
   ![Landing Page](landingPage.png)
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
