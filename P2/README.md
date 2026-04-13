@@ -71,7 +71,7 @@ Para el diseño del prototipo se ha seguido un proceso Mobile-First adaptado a e
 ![GoikoMes](GoikoMes.png)
 
 * Votaciones del Mes:
-![Votaciones del Mes](VotacionesDelMes.png)
+![Votaciones del Mes](VotacionesdelMes.png)
 
 * Salón de la Fama:
 ![Salón de la Fama](SalonDeLaFama.png)
@@ -83,7 +83,7 @@ Para el diseño del prototipo se ha seguido un proceso Mobile-First adaptado a e
 ![Perfil de Creador](PerfilDeCreador.png)
 
 * Arquitectura de Conexiones:
-![Conexiones](Conexiones.png)
+![Conexiones](ConexionesEntrePaginas.png)
 
 * Enlace al prototivo interactivo en Figma:
 https://www.figma.com/design/A6rDPMsQQNoGCJOEQcfLrb/Sin-t%C3%ADtulo?node-id=0-1&t=Pm9RMPRkGWGsdZhS-1
