@@ -97,8 +97,4 @@ Para el diseño del prototipo se ha seguido un proceso Mobile-First adaptado a e
 https://www.figma.com/design/A6rDPMsQQNoGCJOEQcfLrb/Sin-t%C3%ADtulo?node-id=0-1&t=Pm9RMPRkGWGsdZhS-1
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
-
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+El diseño propuesto no solo añade una funcionalidad, sino que corrige las deficiencias de usabilidad detectadas en la competencia (Vicio o Mostaza). Mientras otros se centran solo en la venta, esta propuesta utiliza el Sitemap y el Task Flow para construir una comunidad. Hemos pasado de una web que solo "enseña comida" a una plataforma que "gestiona experiencias y talento".
