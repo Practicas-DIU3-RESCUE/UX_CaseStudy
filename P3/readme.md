@@ -1,9 +1,12 @@
 # DIU - Practica 3, entregables
 
 - Moodboard (diseño visual + logotipo)
- ![Moodboard](Moodboard.png) 
+ ![Moodboard](Moodboard.png)
+<br>
 - Landing Page
+  <br>
   Nuestra landing page ofrece información sobre el proyecto, todo con un diseño claro y visual para que atraer a el publico que no se vayan rapido, sino que se interesen.
+  <br>
   ![Landing Page](landingPage.png)
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
