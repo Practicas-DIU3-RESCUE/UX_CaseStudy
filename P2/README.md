@@ -67,6 +67,8 @@ Para el diseño del prototipo se ha seguido un proceso Mobile-First adaptado a e
 * **Interactividad:** El prototipo es funcional y permite navegar por el flujo completo de "GoikoMes".
 
 **Recursos del Prototipo:**
+
+
 * Página de Inicio:
   
 ![GoikoMes](GoikoMes.png)
