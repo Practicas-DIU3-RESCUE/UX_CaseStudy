@@ -61,7 +61,32 @@
 | Política de Cookies     | Cookis utilizadas en el sitio web                      |
 
 ### Prototipo Lo-FI Wireframe 
+Para el diseño del prototipo se ha seguido un proceso Mobile-First adaptado a escritorio mediante un Grid Layout de 12 columnas (1440px). Se ha puesto especial énfasis en la jerarquía visual y la consistencia de los elementos (botones, tarjetas y navegación).
+* **Distribución y Rejilla:** Se ha utilizado una rejilla de 12 columnas con un gutter de 20px, permitiendo que el contenido sea **responsive**. Las tarjetas de hamburguesas y creadores se han diseñado para ocupar 4 columnas, permitiendo un escalado fluido.
+* **Componentes y Auto Layout:** Se han implementado componentes para las tarjetas de hamburguesas y para el header, utilizando **Auto Layout** de Figma para garantizar que el espaciado sea constante y que el diseño se adapte automáticamente al contenido de texto.
+* **Interactividad:** El prototipo es funcional y permite navegar por el flujo completo de "GoikoMes".
 
+**Recursos del Prototipo:**
+* Página de Inicio:
+![GoikoMes](GoikoMes.png)
+
+* Votaciones del Mes:
+![Votaciones del Mes](VotacionesDelMes.png)
+
+* Salón de la Fama:
+![Salón de la Fama](SalonDeLaFama.png)
+
+* Creadores:
+![Creadores](Creadores.png)
+
+* Perfil de Creador:
+![Perfil de Creador](PerfilDeCreador.png)
+
+* Arquitectura de Conexiones:
+![Conexiones](Conexiones.png)
+
+* Enlace al prototivo interactivo en Figma:
+https://www.figma.com/design/A6rDPMsQQNoGCJOEQcfLrb/Sin-t%C3%ADtulo?node-id=0-1&t=Pm9RMPRkGWGsdZhS-1
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
