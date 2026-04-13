@@ -195,7 +195,8 @@ Para el diseño del prototipo se ha seguido un proceso Mobile-First adaptado a e
 https://www.figma.com/design/A6rDPMsQQNoGCJOEQcfLrb/Sin-t%C3%ADtulo?node-id=0-1&t=Pm9RMPRkGWGsdZhS-1
 
 <br>
-### Conclusiones  
+
+### 2.e Conclusiones  
 El diseño propuesto no solo añade una funcionalidad, sino que corrige las deficiencias de usabilidad detectadas en la competencia (Vicio o Mostaza). Mientras otros se centran solo en la venta, esta propuesta utiliza el Sitemap y el Task Flow para construir una comunidad. Hemos pasado de una web que solo "enseña comida" a una plataforma que "gestiona experiencias y talento".
 
 ## Paso 3. Mi UX-Case Study (diseño)
