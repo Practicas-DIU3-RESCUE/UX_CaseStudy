@@ -8,8 +8,16 @@ Nuestra landing page ofrece información sobre el proyecto, todo con un diseño 
 
 ![Landing Page](landingPage.png)
 
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
+- Elementos Atómicos
+1. Sistema de Color: colores base
+   ![Color Primario](colorprimario.png)
+2. Tipografía: por ejemplo, Heading (H1): Estilo "Display", muy grueso y en mayúsculas para titulares como "TRES BURGERS, UN DESTINO".
+   ![H1](H1.png)
+3. Botones: átomos de acción. Por ejemplo el botón primario con fondo el color primario, texto blanco en negrita y esquinas ligeramente redondeadas
+   ![Boton](boton.png)
+4. Iconografía: elementos gráficos. Por ejemplo el logotipo
+  ![Logo](logo.png)
+   
 
 ## Conclusiones
 
