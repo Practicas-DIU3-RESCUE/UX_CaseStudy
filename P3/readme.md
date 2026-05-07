@@ -24,15 +24,15 @@ Nuestra landing page ofrece información sobre el proyecto, todo con un diseño 
 
 ### - Moléculas
 1. **Card de Producto**: combina la imagen del producto, el título de la burger, una breve descripción y el botón de acción.
-<img src="cardproducto.png" width="150">
+<img src="cardproducto.png" width="250">
 2. **List Items**: ingredientes hace una unión de iconos de viñeta con texto de cuerpo para detallar los componentes de cada hamburguesa.
-<img src="ingredientes.png" width="150">
+<img src="ingredientes.png" width="250">
 
 ### - Organismos
 1. **Header / Navbar**: es el organismo de control principal. Agrupa el logotipo, la molécula de enlaces de navegación (Tabs) y el átomo de botón "Iniciar Sesión"
-<img src="header.png" width="150">
+<img src="header.png" width="600">
 2. **Hero Section**: el bloque de mayor impacto visual. Combina el titular H1, el subtítulo, el botón de acción principal y la imagen destacada del producto para captar la atención del usuario nada más aterrizar.
-<img src="hero.png" width="150">
+<img src="hero.png" width="300">
 
    
 
